@@ -16,4 +16,12 @@ DevOps Pre-requisite
 
 [Network Fundementals Playlists](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 
+# Linux
 
+[Linux Tutorial For Beginners](https://youtu.be/8usykf7J30g)
+
+[Introduction to Linux Operating System](https://youtu.be/V1y-mbWM3B8)
+
+[Linux Full Course In 5 Hours](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
+
+[The Complete Linux: Beginner to Power User](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
