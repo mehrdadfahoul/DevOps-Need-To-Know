@@ -2,4 +2,6 @@
 
 # Links to Resources
 
-# DevOps Pre-requisite
+DevOps Pre-requisite
+
+[Getting started with DevOps - FREE and Useful](https://youtu.be/Wvf0mBNGjXY)
