@@ -25,3 +25,5 @@ DevOps Pre-requisite
 [Linux Full Course In 5 Hours](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
 
 [The Complete Linux: Beginner to Power User](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
+
+### The update is in progress .....
