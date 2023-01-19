@@ -35,6 +35,17 @@ DevOps Pre-requisite
 
 [How to Use the Command Line in Linux, Windows, and Mac Terminal](https://youtu.be/BFMyUgF6I8Y)
 
+# Power Shell
+
+[PowerShell For Beginners Full Course](https://youtu.be/UVUd9_k9C6A)
+
+[PowerShell Master Class](https://youtu.be/sQm4zRvvX58)
+
+[PowerShell Easy to learn](https://youtu.be/b7SGPchYRn0)
+
+[Learn PowerShell in Less Than 2 Hours](https://youtu.be/ZOoCaWyifmI)
+
+
 
 
 
