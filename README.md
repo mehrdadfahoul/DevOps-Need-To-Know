@@ -26,4 +26,16 @@ DevOps Pre-requisite
 
 [The Complete Linux: Beginner to Power User](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 
+# Shell Scripting
+[Shell Scripting Crash Course for Beginner](https://youtu.be/v-F3YLd6oMw)
+
+[Bash Scripting Full Course](https://youtu.be/e7BufAVwDiM)
+
+[How to Create Shell Script in Linux/Unix](https://www.guru99.com/introduction-to-shell-scripting.html)
+
+[How to Use the Command Line in Linux, Windows, and Mac Terminal](https://youtu.be/BFMyUgF6I8Y)
+
+
+
+
 ### The update is in progress .....
