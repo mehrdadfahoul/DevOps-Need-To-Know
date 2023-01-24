@@ -45,6 +45,13 @@ DevOps Pre-requisite
 
 [Learn PowerShell in Less Than 2 Hours](https://youtu.be/ZOoCaWyifmI)
 
+# Git
+[Git Tutorial for Beginners](https://youtu.be/8JJ101D3knE)
+[Git and GitHub for Beginners 2](https://www.youtube.com/watch?v=RGOj5yH7evk)
+[13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
+[Git and GitHub Tutorial For Beginners Full Course](https://youtu.be/3fUbBnN_H2c)
+[Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+
 
 
 
