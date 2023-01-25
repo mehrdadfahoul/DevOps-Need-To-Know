@@ -52,6 +52,10 @@ DevOps Pre-requisite
 [Git and GitHub Tutorial For Beginners Full Course](https://youtu.be/3fUbBnN_H2c)
 [Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 
+# SonarQube
+[What is SonarQube | Introduction SonarQube](https://youtu.be/efHas35j_yg)
+[Sonarqube Tutorials](https://youtube.com/playlist?list=PLDhScTEBdP8ym3PaMkkTVuaaVHV2ktI0j)
+[Sonarqube Advance Tutorial](https://youtube.com/playlist?list=PLDhScTEBdP8zjA3867suQM59b-pEUoXVK)
 
 
 
